@@ -171,17 +171,7 @@ Kiểm tra file PHP chứa thông tin kết nối cơ sở dữ liệu và cập
 
 ```text
 Host: localhost
-Database: <tên_database>
-Username: <username>
-Password: <password>
-```
-
-### 5. Truy cập hệ thống
-
-Mở trình duyệt và truy cập:
-
-```text
-http://localhost/Quan_ly_dich_vu_tai_resort/
+Database: quany_resort.sql
 ```
 
 ## 📚 Kiến thức áp dụng
@@ -202,9 +192,5 @@ Thông qua dự án, các kiến thức sau được áp dụng:
 ## 👨‍💻 Tác giả
 
 **Nguyễn Văn Duy An**
-
-GitHub: **NguyenVanDuyAnn**
-
----
 
 ⭐ Cảm ơn bạn đã quan tâm đến dự án!
