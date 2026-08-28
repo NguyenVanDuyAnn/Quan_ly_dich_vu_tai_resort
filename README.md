@@ -1,4 +1,4 @@
-🏨 Hệ thống quản lý dịch vụ tại Resort
+## 🏨 Hệ thống quản lý dịch vụ tại Resort
 
 Website quản lý dịch vụ tại Resort được xây dựng bằng PHP và MySQL, hỗ trợ quản lý thông tin Resort, khách hàng, nhân viên và các dịch vụ liên quan.
 
@@ -215,6 +215,9 @@ Thông qua dự án, các kiến thức sau được áp dụng:
 * Xây dựng ứng dụng web sử dụng cơ sở dữ liệu
 
 ## 👨‍💻 Tác giả
+### Nguyễn Văn Duy An
+
+![Profile Views](https://komarev.com/ghpvc/?username=NguyenVanDuyAnn&label=Profile%20Views&color=0e75b6&style=flat)
 
 **Nguyễn Văn Duy An**
 
