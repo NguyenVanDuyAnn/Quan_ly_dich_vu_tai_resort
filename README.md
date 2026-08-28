@@ -1,5 +1,3 @@
-<img width="585" height="264" alt="image" src="https://github.com/user-attachments/assets/4d71d7d6-7d1a-4a54-aca6-afcec3b1d2c0" /># 🏨 Hệ thống quản lý dịch vụ tại Resort
-
 > Website quản lý dịch vụ tại Resort được xây dựng bằng **PHP và MySQL**, hỗ trợ quản lý thông tin Resort, khách hàng, nhân viên và các dịch vụ liên quan.
 
 ## 📌 Giới thiệu
