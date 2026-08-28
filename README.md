@@ -1,4 +1,4 @@
-# 🏨 Hệ thống quản lý dịch vụ tại Resort
+<img width="585" height="264" alt="image" src="https://github.com/user-attachments/assets/4d71d7d6-7d1a-4a54-aca6-afcec3b1d2c0" /># 🏨 Hệ thống quản lý dịch vụ tại Resort
 
 > Website quản lý dịch vụ tại Resort được xây dựng bằng **PHP và MySQL**, hỗ trợ quản lý thông tin Resort, khách hàng, nhân viên và các dịch vụ liên quan.
 
@@ -17,6 +17,31 @@ Hệ thống tập trung vào việc quản lý các đối tượng chính như
 * Xây dựng và sử dụng cơ sở dữ liệu quan hệ với **MySQL**.
 * Áp dụng **AJAX** để xử lý việc lấy dữ liệu địa chỉ động.
 * Xây dựng các chức năng liên quan đến tài khoản người dùng.
+## 📸 Giao diện hệ thống
+
+### Giao diện đăng ký
+<img width="429" height="653" alt="image" src="https://github.com/user-attachments/assets/ec849fb0-e756-4266-9d1d-30b708dfb76d" />
+
+### 🏠 Trang chủ
+<img width="585" height="264" alt="image" src="https://github.com/user-attachments/assets/a636a1ed-6302-4554-823c-7318a8cc4a8e" />
+
+### Giao diện đăng nhập
+
+<img width="471" height="440" alt="image" src="https://github.com/user-attachments/assets/e13cc31d-5a8c-44cc-b427-5c7dc38b79e2" />
+
+### Giao diện tìm kiếm
+<img width="589" height="316" alt="image" src="https://github.com/user-attachments/assets/7a073324-0d80-4cb4-91cb-837626b53c8c" />
+
+### Giao diện đánh giá phản hồi
+<img width="586" height="219" alt="image" src="https://github.com/user-attachments/assets/c7bfe8ad-5f24-430f-8420-8b205b5e0eff" />
+
+### Giao diện thông tin cá nhân
+<img width="603" height="278" alt="image" src="https://github.com/user-attachments/assets/f87932e6-bda4-428e-9824-1f481e371d27" />
+
+### Giao diện giao dịch
+<img width="605" height="240" alt="image" src="https://github.com/user-attachments/assets/9abbeef3-bb1a-4d60-8bda-afb8828f9b84" />
+
+
 
 ## 🛠️ Công nghệ sử dụng
 
