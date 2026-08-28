@@ -1,4 +1,6 @@
-> Website quản lý dịch vụ tại Resort được xây dựng bằng **PHP và MySQL**, hỗ trợ quản lý thông tin Resort, khách hàng, nhân viên và các dịch vụ liên quan.
+🏨 Hệ thống quản lý dịch vụ tại Resort
+
+Website quản lý dịch vụ tại Resort được xây dựng bằng PHP và MySQL, hỗ trợ quản lý thông tin Resort, khách hàng, nhân viên và các dịch vụ liên quan.
 
 ## 📌 Giới thiệu
 
